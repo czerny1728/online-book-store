@@ -4,7 +4,7 @@ import com.onlinebookstore.model.User;
 
 public class UserDAO {
     public boolean registerUser(User user) {
-        // TODO
+
         return false;
     }
 
